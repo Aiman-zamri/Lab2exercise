@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2 exercise</string>
+    <string name="hint_name">hint: "cth:Ahmad bin Ali"</string>
+    <string name="hint_dob">hint: "2000-05-15"</string>
+    <string name="btn_analisis_saya">ANALISIS SAYA</string>
+
+</resources>
